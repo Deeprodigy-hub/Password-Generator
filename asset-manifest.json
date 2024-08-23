@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/css/main.9297b3d5.css",
+    "main.js": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/js/main.dac13d43.js",
+    "static/js/453.2a7d545f.chunk.js": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/js/453.2a7d545f.chunk.js",
+    "index.html": "/http//:Deeprodigy-hub.githun.io/Password-Generator/index.html",
+    "main.9297b3d5.css.map": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/css/main.9297b3d5.css.map",
+    "main.dac13d43.js.map": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/js/main.dac13d43.js.map",
+    "453.2a7d545f.chunk.js.map": "/http//:Deeprodigy-hub.githun.io/Password-Generator/static/js/453.2a7d545f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9297b3d5.css",
+    "static/js/main.dac13d43.js"
+  ]
+}
